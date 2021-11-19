@@ -38,12 +38,12 @@
 ## Отладчик
 
 *Ширина и высота изображения:*
-![](ResultsScren/Screenshot_7.png)
-![](ResultsScren/Screenshot_8.png)
+- ![](ResultsScren/Screenshot_7.png)
+- ![](ResultsScren/Screenshot_8.png)
 
 *Тип изображения:*
-![](ResultsScren/Screenshot_6.png)
+- ![](ResultsScren/Screenshot_6.png)
 
 *Значение ширины блока и количество градаций серого:*
-![](ResultsScren/Screenshot_9.png)
-![](ResultsScren/Screenshot_10.png)
+- ![](ResultsScren/Screenshot_9.png)
+- ![](ResultsScren/Screenshot_10.png)
