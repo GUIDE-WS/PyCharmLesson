@@ -22,4 +22,4 @@ def get_average_brightness(img, size, x, y):
     return np.average(img[x: x + size, y: y + size])
 
 
-save_img_from_nparr(create_pixel_art(img_to_nparr('img1.jpg'), 10, 50), 'res.jpg')
+save_img_from_nparr(create_pixel_art(img_to_nparr('img1.jpg'), 10, 50), 'res_new.jpg')
